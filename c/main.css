@@ -1,0 +1,30 @@
+
+        #map{
+            width:550px;
+            height:550px;
+            border:3px solid red;
+            margin: auto;
+        }
+
+        .coordinate{
+            background-color:brown;
+            color:whitesmoke;
+            position: absolute;
+            bottom:10px;
+            right:40%;
+            padding:5px;
+
+        }
+        .leaflet-popup-content-wrapper{
+            background-color: #000000;
+            color:#ffffff;
+            border-radius: 0;
+            font-size:.75rem;
+            padding:1px;
+        }
+        .leaflet-popup-tip {
+background-color: rgb(166, 245, 9);
+
+
+        }
+    
